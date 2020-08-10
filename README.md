@@ -1,5 +1,9 @@
 ### Hello 👋
+<img src="https://images.unsplash.com/photo-1568598035424-7070b67317d2?ixlib=rb-1.2.1&auto=format&fit=crop&w=1049&q=80"/>
+
 Resume:  [Iaroslav Blinkov Resume](oops, coming soon) (PDF download)
+
+
 
 🌱 *Currently Learning*: React-Native and Ruby<br>
 🤔 *Looking for help*: I'm looking for help with trying to find my first software engineering job in this current job climate.<br>
