@@ -18,7 +18,7 @@ Projects: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⚡ Oops,
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Twitter](https://www.twitter.com/iarosb)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/iarosb)<br>
 <br>
-📜 *Facts about me*: I am a pathological inventor with a lifelong learning approach. Challenges keep me alive. My spare time is owned by my family and infinite curiosity. Running, playing football and workouts are also iportant part of my life.
+📜 *Facts about me*: I am a pathological inventor with a lifelong learning approach. Challenges keep me alive. My spare time is owned by my family and infinite curiosity. Running, playing football and working out are also iportant parts of my life.
 <br>
 <br>
 &nbsp;&nbsp;&nbsp;🦄 Have a nice day :)
