@@ -1,6 +1,6 @@
 
 <img src="https://images.unsplash.com/photo-1580212761770-1d1053f6df2d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=900&h=280&q=80"/><br>
-### Hi 👋, my name's Iaroslav Blinkov and I'm here to build some pain free back end apps for you. Welcome to my gh page!<br>
+### Hi 👋, my name's Iaroslav Blinkov and I'm here to build some pain free back-end apps for you. Welcome to my gh page!<br>
 
 Resume:  [Iaroslav Blinkov Resume]( ⚡oops, coming soon⚡) (PDF download)<br>
 Projects: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⚡ Oops,coming soon⚡ <br>
