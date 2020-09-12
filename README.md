@@ -7,13 +7,13 @@ Projects: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⚡ Oops,
 
 🧙 *My story*: A doctor who once found himself in love with programming 😄<br>
 
-🌱 *Learning*: Python and how to build fast and scalable cloud apps for AWS, Azure and GCP <br>
+🌱 *Learning*: Python for writing simple yet beautiful apps running on AWS, Azure and GCP <br>
 
-🚀 *Currently working on*: my blog<br>
+🚀 *Currently working on*: rebuilding my personal blog<br>
 
-🤔 *Looking for help*: I'm looking for my first full time software engineering job (office/remote).<br>
+🤔 *Job status*: I'm looking for my first full time software engineering job (office/remote).<br>
 
-📫 How to reach me: <br>
+📫 *How to reach me*: <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Email](here2contactme@gmail.com)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Twitter](https://www.twitter.com/iarosb)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/iarosb)<br>
