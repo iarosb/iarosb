@@ -3,7 +3,7 @@
 ### Hi 👋, my name's Iaroslav Blinkov and I'm obsessed with APIs. Welcome to my gh page!<br>
 
 Resume:  [Iaroslav Blinkov Resume]( ⚡oops, coming soon⚡) (PDF download)<br>
-Projects: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LINK]⚡ Oops,coming soon⚡ <br>
+Projects: &nbsp;[LINK](⚡ Oops,coming soon⚡) <br>
 
 🌱 *Learning*: Go <br>
 
