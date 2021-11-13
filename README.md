@@ -2,8 +2,9 @@
 <img src="https://images.unsplash.com/photo-1580212761770-1d1053f6df2d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=900&h=280&q=80"/><br>
 ### Hi 👋,I'm Iaroslav Blinkov and welcome to my gh page!<br>
 
-Resume:  [Iaroslav Blinkov Resume]( ⚡oops, coming soon⚡) (ask me for one)<br>
 Expertise: DevOps engineer <br>
+
+Github:  [description](⚡https://iarosb.github.io/⚡) (alt description) <br>
 
 🌱 *Learning*: Go <br>
 
