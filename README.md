@@ -10,7 +10,7 @@ A fancy way to explore repositories I own here on Github: <br>
 🤔 *Job status*: I'm looking for a full time software engineering job (office/remote).<br>
 
 📫 *How to reach me*: <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Email](here2contactme@gmail.com)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Email](https://mail.google.com/mail/?view=cm&fs=1&to=here2contactme@gmail.com&su=Enquiry)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Twitter](https://www.twitter.com/iarosb)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/iarosb)<br>
 <br>
