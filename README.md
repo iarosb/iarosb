@@ -14,7 +14,7 @@ A fancy way to explore repositories I own here on Github: <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Twitter](https://www.twitter.com/iarosb)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/iarosb)<br>
 <br>
-📜 *Now me better*: my passion is optimization of complicated processes which I usually solve with automation, testing and by adopting new practices. I believe in simplicity and value soft skills over hard ones. Advanced networking and ML are on my list of the future endeavours. My spare time is owned by my family, sports and biosciences.
+📜 *Now me better*: I believe in simplicity and value soft skills over hard ones. My spare time is owned by my family, sports and biosciences.
 <br>
 <br>
 &nbsp;&nbsp;&nbsp;🦄 Have a nice day :)
