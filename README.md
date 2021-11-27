@@ -4,7 +4,7 @@
 
 Expertise: DevOps engineer <br>
 
-Tutorials, tips and shoughts on writing software you can find here: <br>
+Tutorials, tips and thoughts on writing software can be found here: <br>
 &nbsp;&nbsp;&nbsp;&nbsp;[- - > BLOG < - -](https://iarosb.github.io/) 
 
 🤔 *Job status*: I'm looking for a full time software engineering job (office/remote).<br>
